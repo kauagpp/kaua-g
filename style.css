@@ -1,1 +1,48 @@
-header{}
+.cabeçalho {
+    background-color: #000000;
+    color: white;
+    display: flex;
+    padding: 24px;
+    font-size: 20px;
+    justify-content: space-around;
+    }
+    *{
+    margin: 0;
+    padding: 0;
+    }
+    .cabeçalhoimagem {
+    width: 8%;
+    height: 8%;
+    }
+    .cabeçalholista {
+    justify-content: center;
+    }
+    .sobre-o-colégio {
+    background-image: linear-gradient(#000000, #000000);
+    color: white;
+    font-size: 20px;
+    padding: 0px 250px;
+    }
+    .sobre-a-escola {
+    padding: 24px 0px;
+    }
+    .cardápio {
+    background-image: linear-gradient(#ffffff, #fcfcfc);
+    color: white;
+    font-size: 20px;
+    padding: 0px 250px;
+    }
+    .Promoções {
+    padding: 24px 0px;
+    }
+    .Tudo {
+    background-image: linear-gradient(#ffffff, #ffffff);
+    color: white;
+    
+    font-size: 20px;
+    padding: 0px 250px;
+    }
+    .Modelos {
+    width: 1%;
+    height: 1%;
+    }
