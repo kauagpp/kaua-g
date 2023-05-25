@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
 .cabeçalho {
     background-color: #000000;
     color: white;
@@ -11,8 +15,8 @@
     padding: 0;
     }
     .cabeçalhoimagem {
-    width: 8%;
-    height: 8%;
+    width: 20%;
+    height: 40%;
     }
     .cabeçalholista {
     justify-content: center;
@@ -45,4 +49,8 @@
     .Modelos {
     width: 1%;
     height: 1%;
+    }
+    .camisetas {
+        width: 116px;
+        height: 58px;
     }
